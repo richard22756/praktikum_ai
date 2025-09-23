@@ -1,0 +1,17 @@
+# Virtual environment
+ai_env/
+venv/
+.env/
+
+# Cache & log
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+.vscode/
